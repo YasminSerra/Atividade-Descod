@@ -1,0 +1,34 @@
+*{
+    background-color: white;
+}
+div
+    {
+        display: inline-block;
+        width: 200px;
+        height: 200px;
+    }
+.azul{
+    background-color: blue;
+}
+.vermelho{
+    background-color: red;
+}
+.verde{
+    background-color: green;
+}
+.amarelo{
+    background-color: yellow;
+}
+
+#borda_preta{
+    border: 3px solid black;
+}
+
+.vermelho_canto {
+background-color: red;
+}
+
+.vermelho_canto:hover {
+    background-color: yellow;
+}
+
